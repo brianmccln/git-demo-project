@@ -10,7 +10,11 @@ To get *italics*, wrap the text in a single asterisk.
 To make a bulleted list, type a hyphen (dash) before each item:  
 - item A
 - item B  
+- item C -- NEW !
+- item D -- NEW !
   
 To make a numbered list, just type a number in front of each item:  
 1. item 1
 2. item 2
+3. item 3 -- NEW !
+4. item 4 -- NEW !
